@@ -1,0 +1,19 @@
+{
+  "name": "SynthWave - Mobile Synthesizer",
+  "short_name": "SynthWave",
+  "description": "A touch-friendly mobile synthesizer with multiple waveforms, effects, and real-time visualization.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "categories": ["music", "entertainment"],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
